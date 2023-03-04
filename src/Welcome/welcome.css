@@ -1,0 +1,22 @@
+
+.background{
+    background-image: url("https://lirp.cdn-website.com/5d7f4c84/dms3rep/multi/opt/iStock-1161673809-2880w.jpg");
+    width: 100vw;
+    height: 70vh;
+    margin-top: 2rem;
+    background-size: 100% 100%;
+    position:relative;
+}
+.header1{
+    position: absolute;
+    top:65%;
+    left: 35%;
+    color:white;
+    font-size: 50px;
+}
+.header2{
+    position:absolute;
+    top:55%;
+    left:45%;
+    color:white;
+}

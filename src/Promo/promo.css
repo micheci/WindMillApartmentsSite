@@ -1,0 +1,13 @@
+.promo-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 200px;
+    padding-top: 83.5px;
+    padding-bottom: 33.5px;
+}
+.promo-p{
+    width: 640px;
+    flex-wrap: wrap;
+}

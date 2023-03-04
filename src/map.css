@@ -1,0 +1,10 @@
+.class{
+    display: flex;
+    width: 50%;
+}
+.class2{
+    display: flex;
+    width: 50%;
+    justify-content: end;
+    font-size: 200px;
+}
